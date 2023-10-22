@@ -1,7 +1,7 @@
 # RMIProject
 
 
-# LE PROJET DE rmi MACHINE et salle 
+# LE PROJET DE RMI Machine et salle 
 
 Introduction :
 
@@ -13,6 +13,7 @@ les technologie utilisie :
 +java Swing User Interface 
 +Mysql 
 +RMI
++JNDI
 
 l'interfece de gestion des Machines:
 
