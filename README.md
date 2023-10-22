@@ -19,6 +19,9 @@ l'interfece de gestion des Machines:
  ![image](https://github.com/asmaElouali/RMIProject/assets/127212498/fa60cfd7-a7e4-4222-bdd2-33764f92b10f)
 
   DEMO :
+
+  [gestionDesMachineSalle.webm](https://github.com/asmaElouali/RMIProject/assets/127212498/258eea51-b746-4e78-a07c-69d30e5e8382)
+
   
 
 
